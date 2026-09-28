@@ -1,0 +1,14 @@
+C:\Users\FRANCINY\Documents\RankingJogos\bin\Debug\net10.0\RankingJogos.exe
+C:\Users\FRANCINY\Documents\RankingJogos\bin\Debug\net10.0\RankingJogos.deps.json
+C:\Users\FRANCINY\Documents\RankingJogos\bin\Debug\net10.0\RankingJogos.runtimeconfig.json
+C:\Users\FRANCINY\Documents\RankingJogos\bin\Debug\net10.0\RankingJogos.dll
+C:\Users\FRANCINY\Documents\RankingJogos\bin\Debug\net10.0\RankingJogos.pdb
+C:\Users\FRANCINY\Documents\RankingJogos\obj\Debug\net10.0\RankingJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FRANCINY\Documents\RankingJogos\obj\Debug\net10.0\RankingJogos.AssemblyInfoInputs.cache
+C:\Users\FRANCINY\Documents\RankingJogos\obj\Debug\net10.0\RankingJogos.AssemblyInfo.cs
+C:\Users\FRANCINY\Documents\RankingJogos\obj\Debug\net10.0\RankingJogos.csproj.CoreCompileInputs.cache
+C:\Users\FRANCINY\Documents\RankingJogos\obj\Debug\net10.0\RankingJogos.dll
+C:\Users\FRANCINY\Documents\RankingJogos\obj\Debug\net10.0\refint\RankingJogos.dll
+C:\Users\FRANCINY\Documents\RankingJogos\obj\Debug\net10.0\RankingJogos.pdb
+C:\Users\FRANCINY\Documents\RankingJogos\obj\Debug\net10.0\RankingJogos.genruntimeconfig.cache
+C:\Users\FRANCINY\Documents\RankingJogos\obj\Debug\net10.0\ref\RankingJogos.dll

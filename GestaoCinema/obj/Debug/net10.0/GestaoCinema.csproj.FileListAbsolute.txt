@@ -1,0 +1,14 @@
+C:\Users\FRANCINY\Documents\GestaoCinema\obj\Debug\net10.0\GestaoCinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FRANCINY\Documents\GestaoCinema\obj\Debug\net10.0\GestaoCinema.AssemblyInfoInputs.cache
+C:\Users\FRANCINY\Documents\GestaoCinema\obj\Debug\net10.0\GestaoCinema.AssemblyInfo.cs
+C:\Users\FRANCINY\Documents\GestaoCinema\obj\Debug\net10.0\GestaoCinema.csproj.CoreCompileInputs.cache
+C:\Users\FRANCINY\Documents\GestaoCinema\bin\Debug\net10.0\GestaoCinema.exe
+C:\Users\FRANCINY\Documents\GestaoCinema\bin\Debug\net10.0\GestaoCinema.deps.json
+C:\Users\FRANCINY\Documents\GestaoCinema\bin\Debug\net10.0\GestaoCinema.runtimeconfig.json
+C:\Users\FRANCINY\Documents\GestaoCinema\bin\Debug\net10.0\GestaoCinema.dll
+C:\Users\FRANCINY\Documents\GestaoCinema\bin\Debug\net10.0\GestaoCinema.pdb
+C:\Users\FRANCINY\Documents\GestaoCinema\obj\Debug\net10.0\GestaoCinema.dll
+C:\Users\FRANCINY\Documents\GestaoCinema\obj\Debug\net10.0\refint\GestaoCinema.dll
+C:\Users\FRANCINY\Documents\GestaoCinema\obj\Debug\net10.0\GestaoCinema.pdb
+C:\Users\FRANCINY\Documents\GestaoCinema\obj\Debug\net10.0\GestaoCinema.genruntimeconfig.cache
+C:\Users\FRANCINY\Documents\GestaoCinema\obj\Debug\net10.0\ref\GestaoCinema.dll
